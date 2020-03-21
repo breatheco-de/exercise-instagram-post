@@ -8,6 +8,8 @@ In this case, we are starting with a single post.
 
 Create the HTML and CSS needed to replicate [this exact same picture](https://projects.breatheco.de/json?slug=instagram-post&preview).
 
+<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
+
 ## What to do if you are stuck?
 
 Ask the instructor or classmates right away, do not stay stuck for more than 15min because this is one of your first exercises and your are not expected to know everything. Ask questions!!!
