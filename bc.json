@@ -4,7 +4,7 @@
 	"status": "published",
 	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"duration" : 4,
-	"preview": "https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png",
+	"preview": "https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true",
 	"description" : "Replicate a single instagram post using HTML and CSS",
 	"talents": [
 		{ "badge": "identator", "points": 10 },
