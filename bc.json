@@ -2,6 +2,7 @@
 	"title" : "Instagram Post",
 	"slug" : "instagram-post",
 	"status": "published",
+	"translations": ["es", "en"],
 	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"duration" : 4,
 	"difficulty": "beginner",
