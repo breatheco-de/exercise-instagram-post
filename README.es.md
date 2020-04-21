@@ -6,11 +6,11 @@ En este caso, estamos empezando con una sola publicación.
 
 ## Instrucciones
 
-Cree el HTML y CSS necesarios para replicar [esta misma imagen exacta](https://projects.breatheco.de/json?slug=instagram-post&preview).
+Crea el HTML y CSS necesarios para replicar [esta misma imagen exacta](https://projects.breatheco.de/json?slug=instagram-post&preview).
 
 ## ¿Qué hacer si estás atascado?
 
-Pregúntele al instructor o a sus compañeros de clase de inmediato, no se quede estancado por más de 15 minutos porque este es uno de sus primeros ejercicios y no se espera que sepa todo. ¡¡¡Hacer preguntas!!!
+Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quedes estancado por más de 15 minutos porque este es uno de tus primeros ejercicios y no se espera que sepas todo. ¡¡¡Hacer preguntas!!!
 
 ## Fundamentos
 Este ejercicio cubre los siguientes fundamentos:
