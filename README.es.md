@@ -6,7 +6,9 @@ En este caso, estamos empezando con una sola publicación.
 
 ## Instrucciones
 
-Crea el HTML y CSS necesarios para replicar [esta misma imagen exacta](https://projects.breatheco.de/json?slug=instagram-post&preview).
+Crea el HTML y CSS necesario para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
+
+<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
 
 ## ¿Qué hacer si estás atascado?
 
