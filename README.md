@@ -10,6 +10,12 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 <p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
 
+## Strategy
+
+Start by identifying which html `<tags>` you can use for the website, like `<div>`, `<p>`, etc. Here is a quick hint on a good strategy:
+
+![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif)
+
 ## What to do if you are stuck?
 
 Ask the instructor or classmates right away, do not stay stuck for more than 15min because this is one of your first exercises and your are not expected to know everything. Ask questions!!!
