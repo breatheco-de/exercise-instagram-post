@@ -14,7 +14,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 Start by identifying which html `<tags>` you can use for the website, like `<div>`, `<p>`, etc. Here is a quick hint on a good strategy:
 
-![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif)
+![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
 
 ## What to do if you are stuck?
 
