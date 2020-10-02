@@ -12,7 +12,7 @@ Crea el HTML y CSS necesario para replicar [esta misma imagen](https://github.co
 
 ## ¿Qué hacer si estás atascado?
 
-Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quedes estancado por más de 15 minutos porque este es uno de tus primeros ejercicios y no se espera que sepas todo. ¡¡¡Hacer preguntas!!!
+Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quedes estancado por más de 15 minutos porque este es uno de tus primeros ejercicios y no se espera que sepas todo. ¡¡¡Haz preguntas!!!
 
 ## Fundamentos
 Este ejercicio cubre los siguientes fundamentos:
