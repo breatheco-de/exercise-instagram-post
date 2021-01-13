@@ -2,13 +2,18 @@
 
 Instagram es una de las interfaces de usuario más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
 
-En este caso, estamos empezando con una sola publicación.
+En este caso, estamos empezando con una sola publicación(post).
 
 ## Instrucciones
 
 Crea el HTML y CSS necesario para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
 <p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
+
+## Estrategia
+Comienza por identificar que <tags> (etiquetas) html puedes usar para este sitio web, por ejemplo <div>, <p>, etc. Aquí tienes una pista de una buena estrategia
+ 
+ ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
 
 ## ¿Qué hacer si estás atascado?
 
