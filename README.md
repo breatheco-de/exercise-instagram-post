@@ -4,6 +4,18 @@ Instagram is one of the most popular user interfaces in the world, this is the f
 
 In this case, we are starting with a single post.
 
+## 🌱  How to start this project
+
+This project comes with the necessary files to start working, but you have two options to start:
+
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-instagram-post.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-instagram-post.git
+```
+**Make s
+
 ## Instructions
 
 Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
