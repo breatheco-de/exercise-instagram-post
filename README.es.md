@@ -4,6 +4,7 @@ Instagram es una de las interfaces de usuario más populares del mundo, este es 
 
 En este caso, estamos empezando con una sola publicación(post).
 
+
 ## 🌱  Cómo iniciar este proyecto
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
@@ -15,7 +16,6 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
-
 
 ## Instrucciones
 
