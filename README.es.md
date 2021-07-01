@@ -17,7 +17,7 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-## Instrucciones
+## Instrucciones:
 
 Crea el HTML y CSS necesario para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
