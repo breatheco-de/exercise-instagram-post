@@ -7,9 +7,9 @@ En este caso, estamos empezando con una sola publicación(post).
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 ```sh
@@ -30,7 +30,7 @@ Comienza por identificar que <tags> (etiquetas) html puedes usar para este sitio
 
 ## ¿Qué hacer si estás atascado?
 
-Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quedes estancado por más de 15 minutos porque este es uno de tus primeros ejercicios y no se espera que sepas todo. ¡¡¡Haz preguntas!!!
+Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quedes estancado por más de 15 minutos, porque este es uno de tus primeros ejercicios y no se espera que sepas todo. ¡¡¡Haz preguntas!!!
 
 ## Fundamentos:
 
