@@ -30,7 +30,7 @@ Start by identifying which html `<tags>` you can use for the website, like `<div
 
 ## What to do if you are stuck?
 
-Ask the instructor or classmates right away, do not stay stuck for more than 15min because this is one of your first exercises and your are not expected to know everything. Ask questions!!!
+Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises and you are not expected to know everything. Ask questions!!!
 
 ## Fundamentals
 This exercise covers the following fundamentals:
@@ -40,5 +40,5 @@ This exercise covers the following fundamentals:
 3. Using the different selectors available in CSS.
 4. Working with boxes: border, padding and margins.
 5. Overflow.
-6. Using Flex vs Postion vs Float vs Display.
+6. Using Flex vs Position vs Float vs Display.
 7. Using a simple form.
