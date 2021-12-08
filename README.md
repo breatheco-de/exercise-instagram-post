@@ -22,9 +22,17 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 ## Strategy
 
-Start by identifying which html `<tags>` you can use for the website, like `<div>`, `<p>`, etc. Here is a quick hint on a good strategy:
+Start by identifying which html `<tags>` you can use for the website, like `<div>`, `<p>`, etc. 
+
+Here is a quick visual hint on a good strategy:
 
 ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
+
+To make your post look like the sample, you will need to use a Roboto-type font from Google Fonts and icons from Font Awesome:
+
+- ![https://fonts.google.com/](https://fonts.google.com/)
+- ![https://fontawesome.com/](https://fontawesome.com/)
+
 
 ## What to do if you are stuck?
 
