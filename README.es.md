@@ -5,7 +5,7 @@ Instagram es una de las interfaces de usuarios más populares del mundo, este es
 En este caso, estamos empezando con una sola publicación(post).
 
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱  ¿Cómo iniciar este proyecto?
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
 
@@ -19,7 +19,7 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 ## Instrucciones
 
-Crea el HTML y CSS necesario para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
+Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
 <p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
 
