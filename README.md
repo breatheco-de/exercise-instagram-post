@@ -30,8 +30,8 @@ Here is a quick visual hint on a good strategy:
 
 To make your post look like the sample, you will need to use a Roboto-type font from Google Fonts and icons from Font Awesome:
 
-- ![https://fonts.google.com/](https://fonts.google.com/)
-- ![https://fontawesome.com/](https://fontawesome.com/)
+- [https://fonts.google.com/](https://fonts.google.com/)
+- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need)
 
 
 ## What to do if you are stuck?
