@@ -25,7 +25,9 @@ Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https:
 
 ## Estrategia
 
-Comienza por identificar que <tags> (etiquetas) html puedes usar para este sitio web, por ejemplo <div>, <p>, etc. Aquí tienes una pista de una buena estrategia
+Comienza por identificar que `<tags>` (etiquetas) html puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
+
+Aquí tienes una pista de una buena estrategia
  
  ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
  
