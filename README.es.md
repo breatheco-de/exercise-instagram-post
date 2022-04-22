@@ -45,11 +45,12 @@ Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quede
 ## Fundamentos:
 
 Este ejercicio cubre los siguientes fundamentos:
-1. Estructura básica para cada sitio web HTML5.
-2. La etiqueta *Link* para importar Reglas CSS.
-3. Utilizando fuentes de google.
-3. Usando los diferentes selectores disponibles en CSS.
-4. Trabajo con cajas: borde, relleno y márgenes.
-5. Overflow.
-6. Usando Flex vs Position vs Float vs Display.
-7. Usando un formulario simple.
+
+1. Estructura básica para cada sitio web HTML5.  
+2. La etiqueta *Link* para importar Reglas CSS.  
+3. Utilizando fuentes de google.  
+3. Usando los diferentes selectores disponibles en CSS.  
+4. Trabajo con cajas: borde, relleno y márgenes.  
+5. Overflow.  
+6. Usando Flex vs Position vs Float vs Display.  
+7. Usando un formulario simple.  
