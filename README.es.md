@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  El Post de Instagram 
+# El Post de Instagram 
 
 Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
 
@@ -12,9 +12,11 @@ No clones este repositorio. El primer paso para comenzar a codificar es clonar e
 a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+
 ```sh
 git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
+
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## Instrucciones
