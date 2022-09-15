@@ -31,7 +31,7 @@ We are going to replicate [this exact same picture](https://github.com/breatheco
 <p  align="center"><img src="https://i.imgur.com/xfn0zgi.jpg" width="450" /></p>
 <p  align="center"><img src="https://i.imgur.com/oMu4HS3.jpg" width="400" /></p>
 
- - [ ] Add the basic HTML structure to you HTML file. If you are using Visual Studio Code, you can type `!` + Enter and that would do the work
+ - [ ] Add the basic HTML structure to you HTML file. If you are using Visual Studio Code, you can type `!` + `Enter` and that would do the work
 
 <p  align="center"><img src="https://i.imgur.com/mnB0hER.jpg" width="500" /></p>
 <p  align="center"><img src="https://i.imgur.com/8PBtZdT.jpg" width="600" /></p>
