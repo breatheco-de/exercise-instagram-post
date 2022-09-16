@@ -37,7 +37,7 @@ Here is a quick visual hint on a good strategy:
 To make your post look like the sample, you will need to use a Roboto-type font from Google Fonts and icons from Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
-- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need)
+- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need them)
 
 
 ## What to do if you are stuck?
@@ -47,11 +47,12 @@ Ask the instructor or classmates right away. Do not stay stuck for more than 15 
 ## Fundamentals
 This exercise covers the following fundamentals:
 
-1. Basic structure for every HTML5 website.  
-2. The *Link* tag to import CSS Rules.  
-3. Using google fonts.  
-3. Using the different selectors available in CSS.  
-4. Working with boxes: border, padding and margins.  
-5. Overflow.  
-6. Using Flex vs Position vs Float vs Display.  
-7. Using a simple form.  
+1. The basic structure for every HTML5 website.
+2. The *Link* tag to import CSS Rules.
+3. Using google fonts.
+3. Using the different selectors available in CSS.
+4. Working with boxes: border, padding and margins.
+5. Overflow.
+6. Using Flex vs Position vs Float vs Display.
+7. Using a simple form.
+
