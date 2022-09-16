@@ -18,7 +18,7 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+💡 Importante: Recuerda para crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` and `push`.
 
 ## Instrucciones
 
