@@ -24,7 +24,7 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 We are going to replicate [this exact same picture](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true). Let's set up our project as follows:
 
-<p  align="center"><img  src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true"  height="300" /></p>
+<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
 
  - [ ] Create the HTML and CSS files in the code editor. If you are using Visual Studio Code, inside the folder where you want to save this project, you can create both HTML and CSS files by clicking on the “New File…” button as follows:
 
@@ -32,7 +32,7 @@ We are going to replicate [this exact same picture](https://github.com/breatheco
 
 ![Files created](https://i.imgur.com/ISoPVl7.png)
 
- - [ ] Add the basic HTML structure to you HTML file. If you are using Visual Studio Code, you can type `!` + Enter and that would do the work
+ - [ ] Add the basic HTML structure to you HTML file. If you are using Visual Studio Code, you can type `!` + `Enter` and that would do the work
 
 ![HTML structure 1](https://i.imgur.com/mnB0hER.jpg)
 
