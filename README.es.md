@@ -24,7 +24,7 @@ git clone  git clone https://github.com/4GeeksAcademy/html-hello
 
 Vamos a replicar [esta imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true). Primero, preparemos nuestro projecto a continuación:
 
-<p  align="center"><img  src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true"  height="300" /></p>
+![Example Picture](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true)
 
  - [ ] Creamos los archivos HTML y CSS en nuestro editor de codigo. SI estas usando Visual Studio Code, dentro de la carpeta en donde quieras guardar este proyecto, puedes crear ambos archivos dando click en el boton “New File…” como sigue:
 
