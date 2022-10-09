@@ -6,7 +6,7 @@ Instagram es una de las interfaces de usuarios más populares del mundo, este es
 En este caso, estamos empezando con una sola publicación(post).
 
 
-## 🌱  ¿Cómo iniciar este proyecto?
+## 🌱 ¿Cómo iniciar este proyecto?
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
 
@@ -18,7 +18,7 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 git clone  git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Importante: Recuerda para crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` and `push`.
+💡 Importante: Recuerda para crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Instrucciones
 
@@ -30,7 +30,7 @@ Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https:
 
 Comienza por identificar que `<tags>` (etiquetas) html puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
 
-Aquí tienes una pista de una buena estrategia
+Aquí tienes una pista de una buena estrategia:
  
  ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
  
