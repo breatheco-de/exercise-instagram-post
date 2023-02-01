@@ -1,6 +1,7 @@
 <!-- hide -->
 # The Instagram Post
 <!-- endhide -->
+
 Instagram is one of the most popular user interfaces in the world, this is the first of three exercises that will make you replicate the most important and difficult parts of Instagram.com
 
 In this case, we are starting with a single post.
@@ -11,13 +12,13 @@ Do not clone this repository.
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello).
 
-b) If working locally type the following command from your command line: 
+b) If working locally, type the following command from your command line: 
 
 ```
 $ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.
 
 
 ## Instructions
@@ -42,9 +43,10 @@ To make your post look like the sample, you will need to use a Roboto-type font 
 
 ## What to do if you are stuck?
 
-Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises and you are not expected to know everything. Ask questions!!!
+Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises, and you are not expected to know everything. Ask questions!!!
 
 ## Fundamentals
+
 This exercise covers the following fundamentals:
 
 1. The basic structure for every HTML5 website.
