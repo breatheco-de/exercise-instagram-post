@@ -34,7 +34,7 @@ Aquí tienes una pista de una buena estrategia:
  
  ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
  
-Este website utiliza `Roboto-type` font de Google Fonts y Font Awesome:
+Este página web utiliza `Roboto-type` font de Google Fonts y Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
 - [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [impórtalo usando una CDN](https://www.bootstrapcdn.com/fontawesome/) en lugar de buscarlo por la página oficial porque no lo vas a encontrar.
