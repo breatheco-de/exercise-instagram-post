@@ -30,7 +30,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 Start by identifying which html `<tags>` you can use for the website, like `<div>`, `<p>`, etc. 
 
-Here is a quick visual hint on a good strategy:
+Here is a quick visual guide on a good strategy:
 
 ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
 
