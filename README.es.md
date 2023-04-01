@@ -1,24 +1,22 @@
 <!-- hide -->
 # El Post de Instagram 
 <!-- endhide -->
-Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
 
-En este caso, estamos empezando con una sola publicación(post).
+## 🌱 Cómo comenzar este proyecto
 
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-## 🌱 ¿Cómo iniciar este proyecto?
+Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
+Este es el repositorio que necesitas abrir o clonar:
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
-
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
-
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
+```
+https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Importante: Recuerda para crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` y `push`.
+**Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
+
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Instrucciones
 
