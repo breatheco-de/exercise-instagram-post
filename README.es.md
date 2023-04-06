@@ -2,11 +2,11 @@
 # El Post de Instagram 
 <!-- endhide -->
 
+Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
+
 Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
-<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
-
-## 🌱 Cómo comenzar este proyecto
+## 🌱 ¿Cómo iniciar este proyecto?
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 

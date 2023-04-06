@@ -2,6 +2,8 @@
 # The Instagram Post
 <!-- endhide -->
 
+Instagram is one of the most popular user interfaces in the world, this is the first of three exercises that will make you replicate the most important and difficult parts of Instagram.com
+
 Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
 <p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
@@ -39,9 +41,10 @@ To make your post look like the sample, you will need to use a Roboto-type font 
 
 ## What to do if you are stuck?
 
-Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises and you are not expected to know everything. Ask questions!!!
+Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises, and you are not expected to know everything. Ask questions!!!
 
 ## Fundamentals
+
 This exercise covers the following fundamentals:
 
 1. The basic structure for every HTML5 website.
