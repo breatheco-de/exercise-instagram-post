@@ -4,27 +4,23 @@
 
 Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
 
-En este caso, estamos empezando con una sola publicación(post).
+Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
 ## 🌱 ¿Cómo iniciar este proyecto?
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [html boilerplate](https://github.com/4GeeksAcademy/html-hello) en tu computador local o con Gitpod.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/html-hello).
+Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+Este es el repositorio que necesitas abrir o clonar:
 
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/html-hello
+```
+https://github.com/4GeeksAcademy/html-hello
 ```
 
-💡 Importante: Recuerda para crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` y `push`.
+**Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
 
-## Instrucciones
-
-Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
-
-<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Estrategia
 
@@ -55,3 +51,5 @@ Este ejercicio cubre los siguientes fundamentos:
 5. Overflow.  
 6. Usando Flex vs Position vs Float vs Display.  
 7. Usando un formulario simple.  
+
+Este y otros ejercicios son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).

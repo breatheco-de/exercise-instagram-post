@@ -1,5 +1,8 @@
 {
-	"title" : "Instagram Post",
+	"title" : {
+		"us": "Instagram Post Layout",
+		"es": "Post de Instagram"
+	},
 	"slug" : "instagram-post",
 	"status": "published",
 	"translations": ["es", "en"],
@@ -8,7 +11,10 @@
 	"difficulty": "beginner",
 	"technologies": ["html", "css", "layouts"],
 	"preview": "https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true",
-	"description" : "Replicate a single instagram post using HTML and CSS",
+	"description" : {
+		"us": "Replicate a single instagram post using HTML and CSS",
+		"es": "Replica la maquetacion de un post de instagram usando HTML y CSS"
+	},
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
