@@ -14,9 +14,8 @@ Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta 
 
 Este es el repositorio que necesitas abrir o clonar:
 
-```
-https://github.com/4GeeksAcademy/html-hello
-```
+[https://github.com/4GeeksAcademy/html-hello](https://github.com/4GeeksAcademy/html-hello)
+
 
 **Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
 
