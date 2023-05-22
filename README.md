@@ -16,9 +16,7 @@ We recommend opening the `html template repository` using a provisioning tool li
 
 This is the repository you need to open or clone:
 
-```
-https://github.com/4GeeksAcademy/html-hello
-```
+[https://github.com/4GeeksAcademy/html-hello](https://github.com/4GeeksAcademy/html-hello)
 
 **Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
