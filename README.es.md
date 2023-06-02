@@ -20,7 +20,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 **Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
 
-💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
+💡 ### Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Estrategia
 
