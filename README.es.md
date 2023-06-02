@@ -10,7 +10,7 @@ Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https:
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
-Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
 Este es el repositorio que necesitas abrir o clonar:
 
