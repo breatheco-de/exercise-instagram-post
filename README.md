@@ -8,15 +8,15 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 <p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 Do not clone this repository because we are going to be using a different template.
 
-We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can clone it on your local computer using the `git clone` command. 
+We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
 
 This is the repository you need to open or clone:
 
-```
+```text
 https://github.com/4GeeksAcademy/html-hello
 ```
 
@@ -27,7 +27,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## Strategy
 
-Start by identifying which html `<tags>` you can use for the website, like `<div>`, `<p>`, etc. 
+Start by identifying which HTML `<tags>` you can use for the website, like `<div>`, `<p>`, etc. 
 
 Here is a quick visual hint on a good strategy:
 
@@ -54,6 +54,5 @@ This exercise covers the following fundamentals:
 4. Working with boxes: border, padding and margins.
 5. Overflow.
 6. Using Flex vs Position vs Float vs Display.
-7. Using a simple form.
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
