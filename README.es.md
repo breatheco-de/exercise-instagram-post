@@ -6,6 +6,8 @@ Instagram es una de las interfaces de usuarios más populares del mundo, este es
 
 Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
+<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
+
 ## 🌱 ¿Cómo iniciar este proyecto?
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
