@@ -33,7 +33,7 @@ Here is a quick visual hint on a good strategy:
 
 ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
 
-To make your post look like the sample, you will need to use a Roboto-type font from Google Fonts and icons from Font Awesome:
+To make your post look like the sample, you will need to use a `Roboto-type` font from Google Fonts and icons from Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
 - [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need them)
@@ -49,7 +49,7 @@ This exercise covers the following fundamentals:
 
 1. The basic structure for every HTML5 website.
 2. The `<link>` tag to import CSS Rules.
-3. Using google fonts.
+3. Using Google fonts.
 3. Using the different selectors available in CSS.
 4. Working with boxes: border, padding and margins.
 5. Overflow.
