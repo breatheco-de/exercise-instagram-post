@@ -6,34 +6,36 @@ Instagram es una de las interfaces de usuarios más populares del mundo, este es
 
 Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
+<p align="center"><img src="https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true" height="300" /></p>
+
 ## 🌱 ¿Cómo iniciar este proyecto?
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
-Recomendamos abrir el `repositorio de la plantilla html` usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+Recomendamos abrir el `repositorio de la plantilla html` usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
 Este es el repositorio que necesitas abrir o clonar:
 
-```
+```text
 https://github.com/4GeeksAcademy/html-hello
 ```
 
-**Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
+**Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
-💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
+> 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## Estrategia
 
-Comienza por identificar que `<tags>` (etiquetas) html puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
+Comienza por identificar que `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
 
 Aquí tienes una pista de una buena estrategia:
+
+![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
  
- ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/strategy.gif?raw=true)
- 
-Este website utiliza `Roboto-type` font de Google Fonts y Font Awesome:
+Este website utiliza la font `Roboto-type` de Google Fonts e íconos de Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
-- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [impórtalo usando una CDN](https://www.bootstrapcdn.com/fontawesome/) en lugar de buscarlo por la página oficial porque no lo vas a encontrar.
+- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Importante: [impórtalo usando una CDN](https://www.bootstrapcdn.com/fontawesome/) en lugar de buscarlo por la página oficial (pregunta al profesor si necesitas ayuda)
 
 ## ¿Qué hacer si estás atascado?
 
@@ -43,13 +45,12 @@ Pregúntale al instructor o a tus compañeros de clase de inmediato, no te quede
 
 Este ejercicio cubre los siguientes fundamentos:
 
-1. Estructura básica para cada sitio web HTML5.  
-2. La etiqueta *Link* para importar Reglas CSS.  
-3. Utilizando fuentes de google.  
-3. Usando los diferentes selectores disponibles en CSS.  
-4. Trabajo con cajas: borde, relleno y márgenes.  
+1. Estructura básica para cualquier sitio web HTML5.
+2. La etiqueta `<link>` para importar Reglas CSS.
+3. Utilizar fuentes (fonts) de Google.
+3. Usar los diferentes selectores disponibles en CSS.
+4. Trabajar con contenedores: borde, relleno y márgenes.  
 5. Overflow.  
-6. Usando Flex vs Position vs Float vs Display.  
-7. Usando un formulario simple.  
+6. Usar Flex vs Position vs Float vs Display.  
 
-Este y otros ejercicios son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+Este y otros ejercicios son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
