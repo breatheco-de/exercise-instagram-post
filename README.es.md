@@ -30,7 +30,7 @@ Comienza por identificar que `<tags>` (etiquetas) HTML puedes usar para este sit
 
 Aquí tienes una pista de una buena estrategia:
 
-<p align="center"><img src="./instagram-post-strategy.gif?raw=true" alt="Estrategia para post de instagram" height="650"></p>
+![Estrategia para post de Instagram](https://github.com/breatheco-de/exercise-instagram-post/blob/master/instagram-post-strategy.gif?raw=true)
  
 Este website utiliza la font `Roboto-type` de Google Fonts e íconos de Font Awesome:
 
