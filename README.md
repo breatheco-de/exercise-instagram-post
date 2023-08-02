@@ -31,7 +31,7 @@ Start by identifying which HTML `<tags>` you can use for the website, like `<div
 
 Here is a quick visual hint on a good strategy:
 
-<img src="./instagram-post-strategy.gif" alt="Strategy for instagram post" width="650">
+<p align="center"><img src="./instagram-post-strategy.gif?raw=true" alt="Strategy for instagram post" height="650"></p>
 
 To make your post look like the sample, you will need to use a `Roboto-type` font from Google Fonts and icons from Font Awesome:
 
