@@ -33,7 +33,7 @@ Here is a quick visual hint on a good strategy:
 
 ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/instagram-post-strategy.gif?raw=true)
 
-To make your post look like the sample, you will need to use a `Roboto-type` font from Google Fonts and icons from Font Awesome:
+To make your post look like the sample, you will need to use a `Roboto` font from Google Fonts and icons from Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
 - [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need them)
