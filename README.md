@@ -50,9 +50,9 @@ This exercise covers the following fundamentals:
 1. The basic structure for every HTML5 website.
 2. The `<link>` tag to import CSS Rules.
 3. Using Google fonts.
-3. Using the different selectors available in CSS.
-4. Working with boxes: border, padding and margins.
-5. Overflow.
-6. Using Flex vs Position vs Float vs Display.
+4. Using the different selectors available in CSS.
+5. Working with boxes: border, padding and margins.
+6. Overflow.
+7. Using Flex vs Position vs Float vs Display.
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
