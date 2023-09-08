@@ -35,7 +35,12 @@ Aquí tienes una pista de una buena estrategia:
 Este website utiliza la font `Roboto-type` de Google Fonts e íconos de Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
-- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Importante: [impórtalo usando una CDN](https://www.bootstrapcdn.com/fontawesome/) en lugar de buscarlo por la página oficial (pregunta al profesor si necesitas ayuda)
+- [https://fontawesome.com/](https://fontawesome.com/)
+
+```text
+ <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
+```
+⚠️ Importante: [impórtalo usando una CDN](https://www.jsdelivr.com/package/npm/@fortawesome/fontawesome-free) en lugar de buscarlo por la página oficial (pregunta al profesor si necesitas ayuda)
 
 ## ¿Qué hacer si estás atascado?
 

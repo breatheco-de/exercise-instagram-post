@@ -36,7 +36,12 @@ Here is a quick visual hint on a good strategy:
 To make your post look like the sample, you will need to use a `Roboto-type` font from Google Fonts and icons from Font Awesome:
 
 - [https://fonts.google.com/](https://fonts.google.com/)
-- [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://www.bootstrapcdn.com/fontawesome/) instead of the main website (ask the teacher for details if you need them)
+- [https://fontawesome.com/](https://fontawesome.com/) 
+
+```text
+ <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
+```
+⚠️ Important: [import font-awesome from a CDN](https://www.jsdelivr.com/package/npm/@fortawesome/fontawesome-free) instead of the main website (ask the teacher for details if you need them)
 
 
 ## What to do if you are stuck?
