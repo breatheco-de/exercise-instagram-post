@@ -41,7 +41,7 @@ To make your post look like the sample, you will need to use a `Roboto-type` fon
 
 ## What to do if you are stuck?
 
-Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises, and you are not expected to know everything. Ask questions!!!
+Ask the instructor or classmates right away. Do not stay stuck for more than 15 minutes because this is one of your first exercises, and you are not expected to know everything. Ask questions!!!
 
 ## Fundamentals
 
