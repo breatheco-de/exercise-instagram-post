@@ -6,7 +6,7 @@
 	"slug" : "instagram-post",
 	"status": "published",
 	"translations": ["es", "en"],
-	"solution": "https://codepen.io/alesanchezr/pen/zeaaVx",
+	"solution": "",
 	"duration" : 4,
 	"difficulty": "beginner",
 	"technologies": ["html", "css", "layouts"],
