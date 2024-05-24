@@ -10,7 +10,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 ## 🌱 How to start this project
 
-Do not clone this repository because we are going to be using a different template.
+Do not clone this repository because we are going to use a different template.
 
 We recommend opening the `html template repository` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
 
@@ -22,7 +22,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 **Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
-> 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
+> 💡 Important: Remember saving and uploading your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
 
 ## Strategy
