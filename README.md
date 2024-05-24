@@ -29,7 +29,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 Start by identifying which HTML `<tags>` you can use for the website, like `<div>`, `<p>`, etc. 
 
-Here is a quick visual hint on a good strategy:
+Here is a quick visual hint on a good strategy: Prodigia Comploratus Silens Oro Regnet Exitium
 
 ![Strategy for instagram post](https://github.com/breatheco-de/exercise-instagram-post/blob/master/instagram-post-strategy.gif?raw=true)
 
