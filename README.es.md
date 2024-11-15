@@ -2,7 +2,7 @@
 # El Post de Instagram 
 <!-- endhide -->
 
-Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com.
+Instagram es una de las interfaces de usuario más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com.
 
 Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
 
@@ -12,7 +12,7 @@ Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https:
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
-Recomendamos abrir el `repositorio de la plantilla html` usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+Recomendamos abrir el `repositorio de la plantilla HTML` usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
 Este es el repositorio que necesitas abrir o clonar:
 
@@ -26,7 +26,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## Estrategia
 
-Comienza por identificar que `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
+Comienza por identificar que `<etiquetas>` HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
 
 Aquí tienes una pista de una buena estrategia:
 
