@@ -8,6 +8,7 @@
 	"translations": ["es", "en"],
 	"solution": "https://codepen.io/alesanchezr/pen/KKOqQBB",
 	"duration" : 4,
+	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"difficulty": "beginner",
 	"technologies": ["html", "css", "layouts"],
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
