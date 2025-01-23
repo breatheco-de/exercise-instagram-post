@@ -14,9 +14,12 @@
 	"template_url": "https://github.com/4GeeksAcademy/html-hello",
 	"preview": "https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true",
 	"description" : {
-		"us": "Replicate a single instagram post using HTML and CSS",
-		"es": "Replica la maquetacion de un post de instagram usando HTML y CSS"
-	},
+		"us": "Recreate a single Instagram post using HTML and CSS, focusing on replicating its structure, style, and responsiveness. This exercise introduces you to key web development concepts like basic HTML5 structure, CSS rules, Google Fonts, Font Awesome icons, and layout techniques like Flexbox and positioning.",
+		"es": "Replica una publicación de Instagram utilizando HTML y CSS, enfocándote en recrear su estructura, estilo y capacidad de respuesta. Este ejercicio te introduce a conceptos clave del desarrollo web, como la estructura básica de HTML5, reglas de CSS, Google Fonts, íconos de Font Awesome y técnicas de diseño como Flexbox y posicionamiento."
+		  },
+    "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=166"
+    },
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
