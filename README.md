@@ -42,9 +42,9 @@ To make your post look like the sample, you will need to use a `Roboto-type` fon
 - [https://fontawesome.com/](https://fontawesome.com/) ⚠️ Important: [import font-awesome from a CDN](https://cdnjs.com/libraries/font-awesome) (copy the first link) instead of the main website (ask the teacher for details if you need them)
 
 
-## What to do if you are stuck?
+## What to do if you're stuck?
 
-Ask the instructor or classmates right away. Do not stay stuck for more than 15 min because this is one of your first exercises, and you are not expected to know everything. Ask questions!!!
+Ask the instructor or classmates right away. Don't stay stuck for more than 15 min because this is one of your first exercises, and you are not expected to know everything. Ask questions!!!
 
 ## Fundamentals
 
